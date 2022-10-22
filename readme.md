@@ -6,3 +6,6 @@
 5. have each student leave a comment and an approval on each other's pull requests and then merge your pull requests into the main branch
 6. Make sure at least one person creates a merge conflict and go through resolving that merge conflict locally
 	6.a this means opening the branch wiht conflicts locally and merging main into that branch. (navigate to main branch, pull latest form main, change to your feature branch and run 'git merge main' resolve merge conflicts in vs code and push those changes, they should be updated in your PR and your PR shouldn't have a merge conflict anymore)
+
+
+Lucy - Added feature/add-routes
